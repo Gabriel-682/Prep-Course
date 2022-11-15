@@ -1,0 +1,47 @@
+.titulos {
+  color: rgb(3, 3, 184);
+  background-color: rgba(255, 255, 255, 0.495);
+}
+img {
+  width: 400px;
+}
+#thirdDiv {
+  height: 600px;
+  width: 500px;
+  background-color: lightblue;
+  padding: 50px;
+  border: 5px dotted blue;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+#spanId {
+  font-size: 18px;
+  margin: 50px;
+  background-color: rgba(255, 255, 255, 0.495);
+  text-align: justify;
+  text-indent: 60px;
+}
+body {
+  background-image: url("https://imag.bonviveur.com/milanesas-de-ternera.jpg");
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+div {
+  display: inline-flex;
+  flex-direction: column;
+  align-items: center;
+}
+a {
+  width: 200px;
+  height: 80px;
+  background-color: rgba(255, 255, 255, 0.495);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 50px;
+  border-radius: 60%;
+}
